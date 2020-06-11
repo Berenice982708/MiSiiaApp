@@ -9,6 +9,8 @@ la creación de un sitio con una navegación dinamica.
 # Integrantes 
 Diana Fernanda Lopez Zendejas
 Sandra Berenice Rodriguez Verdines
+# Profesor
+Carlos Rafael Levy Rojas
 # Funcionalidad
 *En la pagina principal se muestra un inicio a la app,en esta debemos selecionar un boton para poder utilizarla.
 *La seleccion del usuario logueado muestra una nueva pagina(visualizaciones) con los cursos  del usuario seleccionado.
